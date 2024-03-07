@@ -1,4 +1,4 @@
-package com.TejaIT.department;
+package com.sai.department;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

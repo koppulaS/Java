@@ -8,7 +8,7 @@
 		<version>2.5.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.TejaIT</groupId>
+	<groupId>com.sai</groupId>
 	<artifactId>department</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>department</name>

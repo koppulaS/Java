@@ -1,4 +1,4 @@
-package com.TejaIT.service.registry;
+package com.sai.service.registry;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

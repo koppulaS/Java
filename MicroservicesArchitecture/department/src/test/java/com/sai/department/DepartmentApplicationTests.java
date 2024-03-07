@@ -1,4 +1,4 @@
-package com.TejaIT.department;
+package com.sai.department;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

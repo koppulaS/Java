@@ -1,4 +1,4 @@
-package com.TejaIT.Employee;
+package com.sai.Employee;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;

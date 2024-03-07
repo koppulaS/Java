@@ -1,4 +1,4 @@
-package com.TejaIT.Employee;
+package com.sai.Employee;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

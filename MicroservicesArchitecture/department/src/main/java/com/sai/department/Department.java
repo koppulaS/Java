@@ -1,4 +1,4 @@
-package com.TejaIT.department;
+package com.sai.department;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

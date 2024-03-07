@@ -1,4 +1,4 @@
-package com.TejaIT.hystrix.dashboard;
+package com.sai.hystrix.dashboard;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

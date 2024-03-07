@@ -1,4 +1,4 @@
-package com.TejaIT.department;
+package com.sai.department;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
